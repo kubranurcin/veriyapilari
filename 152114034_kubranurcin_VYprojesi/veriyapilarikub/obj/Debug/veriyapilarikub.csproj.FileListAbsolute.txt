@@ -1,0 +1,34 @@
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\bin\Debug\veriyapilarikub.exe.config
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\bin\Debug\veriyapilarikub.exe
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\bin\Debug\veriyapilarikub.pdb
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\bin\Debug\itextsharp.dll
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\bin\Debug\itextsharp.xml
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\obj\Debug\veriyapilarikub.Form1.resources
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\obj\Debug\veriyapilarikub.Properties.Resources.resources
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\obj\Debug\veriyapilarikub.csproj.GenerateResource.cache
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\obj\Debug\veriyapilarikub.csproj.CoreCompileInputs.cache
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\obj\Debug\veriyapilarikub.csproj.CopyComplete
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\obj\Debug\veriyapilarikub.exe
+C:\Users\muvaf\Documents\Visual Studio 2017\Projects\veriyapilarikub\veriyapilarikub\obj\Debug\veriyapilarikub.pdb
+C:\Users\kubra\Desktop\veri\veriyapilarikub\bin\Debug\veriyapilarikub.exe.config
+C:\Users\kubra\Desktop\veri\veriyapilarikub\bin\Debug\veriyapilarikub.exe
+C:\Users\kubra\Desktop\veri\veriyapilarikub\bin\Debug\veriyapilarikub.pdb
+C:\Users\kubra\Desktop\veri\veriyapilarikub\bin\Debug\itextsharp.dll
+C:\Users\kubra\Desktop\veri\veriyapilarikub\bin\Debug\itextsharp.xml
+C:\Users\kubra\Desktop\veri\veriyapilarikub\obj\Debug\veriyapilarikub.csprojResolveAssemblyReference.cache
+C:\Users\kubra\Desktop\veri\veriyapilarikub\obj\Debug\veriyapilarikub.Form1.resources
+C:\Users\kubra\Desktop\veri\veriyapilarikub\obj\Debug\veriyapilarikub.Properties.Resources.resources
+C:\Users\kubra\Desktop\veri\veriyapilarikub\obj\Debug\veriyapilarikub.csproj.GenerateResource.Cache
+C:\Users\kubra\Desktop\veri\veriyapilarikub\obj\Debug\veriyapilarikub.exe
+C:\Users\kubra\Desktop\veri\veriyapilarikub\obj\Debug\veriyapilarikub.pdb
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\bin\Debug\veriyapilarikub.exe.config
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\obj\Debug\veriyapilarikub.exe
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\obj\Debug\veriyapilarikub.pdb
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\bin\Debug\veriyapilarikub.exe
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\bin\Debug\veriyapilarikub.pdb
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\bin\Debug\itextsharp.dll
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\bin\Debug\itextsharp.xml
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\obj\Debug\veriyapilarikub.csprojResolveAssemblyReference.cache
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\obj\Debug\veriyapilarikub.Form1.resources
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\obj\Debug\veriyapilarikub.Properties.Resources.resources
+C:\Users\kubra\Desktop\152114034_kubranurcin_VYprojesi\veriyapilarikub\obj\Debug\veriyapilarikub.csproj.GenerateResource.Cache
